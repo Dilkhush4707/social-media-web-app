@@ -1,0 +1,12 @@
+.app-containor{
+display:flex
+}
+.contant{
+width: 100% ;
+}
+.sidebar{
+  min-height: 800px;
+}
+.card{
+  width: 18rem;
+}
